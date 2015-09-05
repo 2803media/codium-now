@@ -17,6 +17,6 @@ Features :
 
 For the thumbnails you can use this plugin https://wordpress.org/plugins/regenerate-thumbnails/
 
-More information here : http://codiumnow.emploinow.fr
-
 All images and photos display on the theme screenshoot are provided by http://allthefreestock.com/ and are free for use in personal and commercial project. The licence is Creative Commons Zero license.
+
+More information here : http://codiumnow.emploinow.fr
